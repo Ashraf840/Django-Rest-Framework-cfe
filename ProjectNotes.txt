@@ -1,0 +1,9 @@
+Directory: backend
+The django-rest-framework project is going to exist inside the 'backend' directory.
+
+
+Directory: py_client
+The directory app will consume the rest APIs built inside the DRF project.
+
+
+
